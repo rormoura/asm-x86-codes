@@ -1,3 +1,3 @@
 # asm-x86-codes
 
-### Somes codes implemented in Assembly x86.
+### A few codes implemented in Assembly x86.
